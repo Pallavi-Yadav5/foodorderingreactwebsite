@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/foodorderingreactwebsite/static/css/main.21fc23af.css",
+    "main.js": "/foodorderingreactwebsite/static/js/main.d1d41405.js",
+    "index.html": "/foodorderingreactwebsite/index.html",
+    "main.21fc23af.css.map": "/foodorderingreactwebsite/static/css/main.21fc23af.css.map",
+    "main.d1d41405.js.map": "/foodorderingreactwebsite/static/js/main.d1d41405.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21fc23af.css",
+    "static/js/main.d1d41405.js"
+  ]
+}
